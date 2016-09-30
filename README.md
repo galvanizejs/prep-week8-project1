@@ -1,6 +1,4 @@
-# Week8 Project1
-
-## Accumulator Pattern
+# Final: Accumulator Pattern
 
 Given a string input by a user (like "hello"), return an object that counts the letters and then display the content within the HTML page.
 
